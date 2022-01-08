@@ -1,0 +1,9 @@
+.Center{
+    display: flex;
+    justify-content: center;
+}
+
+.CenterText{
+    text-align: center;
+}
+
